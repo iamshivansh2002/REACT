@@ -1,0 +1,6 @@
+1. Child Constructor - First child
+2. Child Render - First child
+3. API Fetched & State Updated
+4. Child componentDidMount - First child
+5. Child Render - First child   // re-render due to setState
+6. Child componentDidUpdate

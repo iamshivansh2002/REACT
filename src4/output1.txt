@@ -1,0 +1,14 @@
+1. parent constructor
+2. parent render
+
+3. child constructor First child
+4. child render First child
+
+5. child constructor Second child
+6. child render Second child
+
+7. child componentDidMount First child
+8. child componentDidMount Second child
+
+9. parent componentDidMount
+
